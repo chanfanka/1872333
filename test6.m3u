@@ -1,0 +1,46 @@
+0
+#EXTM3U
+#EXTINF:-1,GREEN
+http://218.60.94.32:1935/live/cs02.stream/playlist.m3u8
+#EXTINF:-1,GOLF NETWORK
+http://218.60.94.32:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1,EX Sports
+http://218.60.94.32:1935/live/cs04.stream/playlist.m3u8
+#EXTINF:-1,J-Sports 1
+http://218.60.94.32:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1,J-Sports 2
+http://218.60.94.32:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1,J-Sports 3
+http://218.60.94.32:1935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1,Fighting TV
+http://218.60.94.32:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1,J-Sports 4
+http://218.60.94.32:1935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1,Movie Plus CS
+http://218.60.94.32:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:-1,Family Gekijo
+http://218.60.94.32:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1,KIDS https://www.tvonlinestreams.com
+http://218.60.94.32:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1,Discovery
+http://218.60.94.32:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1,History
+http://218.60.94.32:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1,TBS NEWS
+http://218.60.94.32:1935/live/cs15.stream/playlist.m3u8
+#EXTINF:-1,KBSWORLD
+http://218.60.94.32:1935/live/cs16.stream/playlist.m3u8
+#EXTINF:-1,Eisei Gekijo
+http://218.60.94.32:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1,Nihon_Eiga_TV
+http://218.60.94.32:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1,Disney
+http://218.60.94.32:1935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1,SKY A
+http://218.60.94.32:1935/live/cs23.stream/playlist.m3u8
+#EXTINF:-1,FUJI-TV-ONE
+http://218.60.94.32:1935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1,ANIMAX
+http://218.60.94.32:1935/live/cs25.stream/playlist.m3u8
+#EXTINF:-1,NTV-G+
+http://218.60.94.32:1935/live/cs26.stream/playlist.m3u8
