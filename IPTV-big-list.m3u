@@ -1,70 +1,74 @@
-http://k2442.com:8000/get.php?username=88229&password=88229&type=m3u
-
-http://painel.iptvmove.com/get.php?username=candida&password=candida&type=m3u
-
-http://54.37.255.204:9977/get.php?username=maria&password=iptv&type=m3u
-
-http://zonanorteiptv.ddns.net:8000/get.php?username=HsyyiRHBD0&password=yYZTuqCWdS&type=m3u
-
-http://tvdp.live:8080/get.php?username=xeaG2w4GxM&password=sFghn62Nv3&type=m3u
-
-http://neupanel.live:8080/get.php?username=pvwYJ8Jnag&password=Aevezvxkvy&type=m3u
-
-http://url550.com:8000/get.php?username=1234AA**@@Uz!!&password=bassamroundok&type=m3u
-
-http://163.172.13.157:8000/get.php?username=latif&password=latif123&type=m3u
-
-http://world-ipsat.com:1155/get.php?username=sultan&password=sultan2018&type=m3u
-
-http://hyper.de1-eu.com:8000/get.php?username=UNIBOX&password=hBprj3YRJy&type=m3u
-
-http://portals.enjoy-iptv.com:8080/get.php?username=If1g16CiWh&password=5awuJWMQLs&type=m3u
-
-http://portal.geniptv.com:8080/get.php?username=RUnKDBYQQj&password=E8vGron6un&type=m3u
-
-http://izgemma.ddns.net:8000/get.php?username=pedro&password=pedro&type=m3u
-
-http://iptvtool.es:9977/get.php?username=mohamed&password=mohamed&type=m3u
-
-http://code.xtream-iptv.pro:8000/get.php?username=BA_2GBR2JFJVS&password=VNJGUARHYQ&type=m3u
-
-http://maglive.selfip.com:8000/get.php?username=enriquez&password=barresio&type=m3u
-
-http://x-bosna.no-ip.biz/playlist.m3u?type=m3u&deviceMac=00:1a:79:40:19:cf
-
-http://x-bosna.no-ip.biz/playlist.m3u?type=m3u&deviceMac=00:1a:79:40:19:d1
-
-http://x-bosna.no-ip.biz/playlist.m3u?type=m3u&deviceMac=00:1a:79:40:19:d2
-
-http://x-bosna.no-ip.biz/playlist.m3u?type=m3u&deviceMac=00:1a:79:40:19:d3
-
-http://61.78.179.120:9981/playlist
-
-http://49.84.44.53:9981/playlist
-
-http://89.217.9.190:9981/playlist
-
-http://90.35.81.37:9981/playlist
-
-http://87.123.125.185:9981/playlist
-
-http://62.235.149.96:9981/playlist
-
-http://114.229.106.228:9981/playlist
-
-http://78.125.233.75:9981/playlist
-
-http://221.153.136.253:9981/playlist
-
-http://211.224.247.127:9981/playlist
-
-http://92.74.243.29:9000/playlist
-
-http://211.200.84.43:9981/playlist
-
-http://84.145.98.10:9981/playlist
-
-http://183.96.187.133:9981/playlist
-
-http://221.138.246.83:9981/playlist
- 
+#EXTINF:-1,JPN | BS 12 TwellV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15758.ts
+#EXTINF:-1,JPN | BS Asahi
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15759.ts
+#EXTINF:-1,JPN | BS Fuji
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15760.ts
+#EXTINF:-1,JPN | BS Japan
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15761.ts
+#EXTINF:-1,JPN | BS NTV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15762.ts
+#EXTINF:-1,JPN | BS-TBS
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15763.ts
+#EXTINF:-1,JPN | CS219
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15764.ts
+#EXTINF:-1,JPN | Discovery Channel
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15765.ts
+#EXTINF:-1,JPN | Disney Channel
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15766.ts
+#EXTINF:-1,JPN | Eisei Gekijo
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15767.ts
+#EXTINF:-1,JPN | Fuji TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15768.ts
+#EXTINF:-1,JPN | Golf Network
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15769.ts
+#EXTINF:-1,JPN | History
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15770.ts
+#EXTINF:-1,JPN | J Sports 1
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15771.ts
+#EXTINF:-1,JPN | J Sports 2
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15772.ts
+#EXTINF:-1,JPN | J Sports 3
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15773.ts
+#EXTINF:-1,JPN | J Sports 4
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15774.ts
+#EXTINF:-1,JPN | Kids Station
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15775.ts
+#EXTINF:-1,JPN | Movie Plus
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15776.ts
+#EXTINF:-1,JPN | Music Japan
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15777.ts
+#EXTINF:-1,JPN | NHK BS Premium
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15778.ts
+#EXTINF:-1,JPN | NHK BS1
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15779.ts
+#EXTINF:-1,JPN | NHK Educational TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15780.ts
+#EXTINF:-1,JPN | NHK General TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15781.ts
+#EXTINF:-1,JPN | Nihon Eiga TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15782.ts
+#EXTINF:-1,JPN | Nippon TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15783.ts
+#EXTINF:-1,JPN | Samurai Fighting TV
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15784.ts
+#EXTINF:-1,JPN | Star Channel 1
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15785.ts
+#EXTINF:-1,JPN | Star Channel 2
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15786.ts
+#EXTINF:-1,JPN | Star Channel 3
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15787.ts
+#EXTINF:-1,JPN | TBS Television
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15788.ts
+#EXTINF:-1,JPN | Tokyo MX
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15789.ts
+#EXTINF:-1,JPN | TV Asahi
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15790.ts
+#EXTINF:-1,JPN | TV Tokyo
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15791.ts
+#EXTINF:-1,JPN | WOWOW Cinema
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15792.ts
+#EXTINF:-1,JPN | WOWOW Live
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15793.ts
+#EXTINF:-1,JPN | WOWOW Prime
+http://myipcam.ddns.net:80/live/jayers76/DmojNzTAJM/15794.ts
